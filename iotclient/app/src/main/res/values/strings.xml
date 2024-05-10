@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iotclient</string>
+    <string name="nan_c">NAN°C</string>
+    <string name="nan">Nan%</string>
+    <string name="h_n_b_t_n">Hẹn bật đèn</string>
+    <string name="m_n">Mở đèn</string>
+    <string name="nans">Nan℃</string>
+</resources>
